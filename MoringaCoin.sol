@@ -8,7 +8,7 @@ pragma solidity ^0.4.24;
  * @dev Math operations with safety checks that throw on error
  * Name : Moringa Coin (MRC)
  * Decimals : 18
- * TotalSupply : 9500000000
+ * TotalSupply : 9000000000
  * 
  * 
  * 
