@@ -87,8 +87,8 @@ contract MoringaCoin is ERC20 {
     string public constant symbol = "MRC";
     uint public constant decimals = 18;
     
-    uint256 public totalSupply = 9500000000e18;
-    uint256 public totalDistributed =  1000000000e18;    
+    uint256 public totalSupply = 9000000000e18;
+    uint256 public totalDistributed =  900000000e18;    
     uint256 public constant MIN_CONTRIBUTION = 1 ether / 100; // 0.01 Ether
     uint256 public tokensPerEth = 20000000e18;
 
